@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mcpeking18
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning C & Python
-- 💞️ I’m looking to collaborate on Minecraft or Maths 
 - 😄 Pronouns: he/his
+- 👀 I’m interested in Gaming
+- 🌱 I’m currently learning C & Python & Pursuing B.Tech in ECE
+- 💞️ I’m Open to collaboration on projects to learn more :D 
 - ⚡ Fun fact: bad at minecraft 
 
 <!---
